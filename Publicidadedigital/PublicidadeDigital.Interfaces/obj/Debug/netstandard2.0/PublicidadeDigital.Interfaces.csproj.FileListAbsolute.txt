@@ -1,0 +1,12 @@
+C:\Users\Vitor Mascarenhas\Documents\INSIS\Projeto\Publicidadedigital\PublicidadeDigital.Interfaces\bin\Debug\netstandard2.0\PublicidadeDigital.Interfaces.deps.json
+C:\Users\Vitor Mascarenhas\Documents\INSIS\Projeto\Publicidadedigital\PublicidadeDigital.Interfaces\bin\Debug\netstandard2.0\PublicidadeDigital.Interfaces.dll
+C:\Users\Vitor Mascarenhas\Documents\INSIS\Projeto\Publicidadedigital\PublicidadeDigital.Interfaces\bin\Debug\netstandard2.0\PublicidadeDigital.Interfaces.pdb
+C:\Users\Vitor Mascarenhas\Documents\INSIS\Projeto\Publicidadedigital\PublicidadeDigital.Interfaces\bin\Debug\netstandard2.0\Publicidadedigital.Models.dll
+C:\Users\Vitor Mascarenhas\Documents\INSIS\Projeto\Publicidadedigital\PublicidadeDigital.Interfaces\bin\Debug\netstandard2.0\Publicidadedigital.Models.pdb
+C:\Users\Vitor Mascarenhas\Documents\INSIS\Projeto\Publicidadedigital\PublicidadeDigital.Interfaces\obj\Debug\netstandard2.0\PublicidadeDigital.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Vitor Mascarenhas\Documents\INSIS\Projeto\Publicidadedigital\PublicidadeDigital.Interfaces\obj\Debug\netstandard2.0\PublicidadeDigital.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Mascarenhas\Documents\INSIS\Projeto\Publicidadedigital\PublicidadeDigital.Interfaces\obj\Debug\netstandard2.0\PublicidadeDigital.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Vitor Mascarenhas\Documents\INSIS\Projeto\Publicidadedigital\PublicidadeDigital.Interfaces\obj\Debug\netstandard2.0\PublicidadeDigital.Interfaces.AssemblyInfo.cs
+C:\Users\Vitor Mascarenhas\Documents\INSIS\Projeto\Publicidadedigital\PublicidadeDigital.Interfaces\obj\Debug\netstandard2.0\PublicidadeDigital.Interfaces.csproj.CopyComplete
+C:\Users\Vitor Mascarenhas\Documents\INSIS\Projeto\Publicidadedigital\PublicidadeDigital.Interfaces\obj\Debug\netstandard2.0\PublicidadeDigital.Interfaces.dll
+C:\Users\Vitor Mascarenhas\Documents\INSIS\Projeto\Publicidadedigital\PublicidadeDigital.Interfaces\obj\Debug\netstandard2.0\PublicidadeDigital.Interfaces.pdb

@@ -1,0 +1,14 @@
+C:\Users\Vitor Mascarenhas\Documents\INSIS\Projeto\Publicidadedigital\PublicidadeDigital.Infrastructure\obj\Debug\netstandard2.0\PublicidadeDigital.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Vitor Mascarenhas\Documents\INSIS\Projeto\Publicidadedigital\PublicidadeDigital.Infrastructure\obj\Debug\netstandard2.0\PublicidadeDigital.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Mascarenhas\Documents\INSIS\Projeto\Publicidadedigital\PublicidadeDigital.Infrastructure\obj\Debug\netstandard2.0\PublicidadeDigital.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Vitor Mascarenhas\Documents\INSIS\Projeto\Publicidadedigital\PublicidadeDigital.Infrastructure\obj\Debug\netstandard2.0\PublicidadeDigital.Infrastructure.AssemblyInfo.cs
+C:\Users\Vitor Mascarenhas\Documents\INSIS\Projeto\Publicidadedigital\PublicidadeDigital.Infrastructure\bin\Debug\netstandard2.0\PublicidadeDigital.Infrastructure.deps.json
+C:\Users\Vitor Mascarenhas\Documents\INSIS\Projeto\Publicidadedigital\PublicidadeDigital.Infrastructure\bin\Debug\netstandard2.0\PublicidadeDigital.Infrastructure.dll
+C:\Users\Vitor Mascarenhas\Documents\INSIS\Projeto\Publicidadedigital\PublicidadeDigital.Infrastructure\bin\Debug\netstandard2.0\PublicidadeDigital.Interfaces.dll
+C:\Users\Vitor Mascarenhas\Documents\INSIS\Projeto\Publicidadedigital\PublicidadeDigital.Infrastructure\bin\Debug\netstandard2.0\Publicidadedigital.Models.dll
+C:\Users\Vitor Mascarenhas\Documents\INSIS\Projeto\Publicidadedigital\PublicidadeDigital.Infrastructure\bin\Debug\netstandard2.0\PublicidadeDigital.Interfaces.pdb
+C:\Users\Vitor Mascarenhas\Documents\INSIS\Projeto\Publicidadedigital\PublicidadeDigital.Infrastructure\bin\Debug\netstandard2.0\Publicidadedigital.Models.pdb
+C:\Users\Vitor Mascarenhas\Documents\INSIS\Projeto\Publicidadedigital\PublicidadeDigital.Infrastructure\obj\Debug\netstandard2.0\PublicidadeDigital.Infrastructure.csproj.CopyComplete
+C:\Users\Vitor Mascarenhas\Documents\INSIS\Projeto\Publicidadedigital\PublicidadeDigital.Infrastructure\bin\Debug\netstandard2.0\PublicidadeDigital.Infrastructure.pdb
+C:\Users\Vitor Mascarenhas\Documents\INSIS\Projeto\Publicidadedigital\PublicidadeDigital.Infrastructure\obj\Debug\netstandard2.0\PublicidadeDigital.Infrastructure.dll
+C:\Users\Vitor Mascarenhas\Documents\INSIS\Projeto\Publicidadedigital\PublicidadeDigital.Infrastructure\obj\Debug\netstandard2.0\PublicidadeDigital.Infrastructure.pdb
